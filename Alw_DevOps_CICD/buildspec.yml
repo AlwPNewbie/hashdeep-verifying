@@ -1,0 +1,26 @@
+version: 0.2
+env:
+  variables:
+    build_version: "0.1"
+    AWS_DEFAULT_REGION: "ap-southeast-1"
+
+phases:
+  install:
+    commands:
+      - echo "No pre-install"
+  pre_build:
+    commands:
+      - echo "Pre build"
+      - chmod u+x *.sh
+  build:
+    commands:
+      - echo "Running Shells Script"
+      - ls -la
+      - ./checkfolder.sh
+      - ./testing.sh      
+      #- ./sha1gen.sh
+      #- ./verify.sh
+  post_build:
+    commands:
+      #- commands
+      #- echo Build completed on `date`

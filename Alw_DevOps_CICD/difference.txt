@@ -1,0 +1,14 @@
+6,7c6
+< 10028,9ee31fe8e35dbdbcd42fe54f828a6d13b9edfb8f,/home/linuspsx/Alw_DevOps_CICD/original-results-verified.txt
+< 10799,2ee1742c7f014d36def0ee134866d4bbab100d15,/home/linuspsx/Alw_DevOps_CICD/original-results-sorted.txt
+---
+> 10106,e361c9be70c5e6a186312b81ed6f0a05ebc2287d,/home/linuspsx/Alw_DevOps_CICD/second-results-verified.txt
+9c8,9
+< 11071,8ef49bbea66a203b79763d956a3c41e7828cf902,/home/linuspsx/Alw_DevOps_CICD/second-results-verified.txt
+---
+> 11335,aa8483e411c91c373c163ed3d85674b963bcdfdc,/home/linuspsx/Alw_DevOps_CICD/original-results-verified.txt
+> 11335,ed1e9cc01e4386691484accf1f7ff38bf70ed284,/home/linuspsx/Alw_DevOps_CICD/original-results-sorted.txt
+77c77
+< 4881,ab15b34453219c27623680219410fd259fe89325,/home/linuspsx/Alw_DevOps_CICD/second-results.txt
+---
+> 4881,11e20f5be1330f02fa1bbe45fe77cac5df79e82f,/home/linuspsx/Alw_DevOps_CICD/second-results.txt
